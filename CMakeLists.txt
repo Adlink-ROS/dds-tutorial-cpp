@@ -14,6 +14,7 @@ add_subdirectory(ownership)
 add_subdirectory(chatroom)
 add_subdirectory(presentation)
 add_subdirectory(coherent)
+add_subdirectory(timebasedfilter)
 
 set (CMAKE_EXPORT_COMPILE_COMMANDS ON)
 
